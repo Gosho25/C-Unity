@@ -16,7 +16,7 @@ namespace Project2
 
             int num = Convert.ToInt32(Console.ReadLine());
             int sum;
-            for(int i = 0; i <= num*3; i++)
+            for(int i = 0; i <= num*3; i++) 
             {
                 i += num;
                 Console.WriteLine(i);
