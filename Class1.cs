@@ -7,7 +7,7 @@ namespace Project2
     {
         static void Main(string[] args) 
         { 
-            /*
+            /* 
             Console.WriteLine("Enter your age:");
             int userInput = Convert.ToInt32(Console.ReadLine());
             int toStoIDvaiset = 120 - userInput;
