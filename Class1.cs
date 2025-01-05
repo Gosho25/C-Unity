@@ -12,7 +12,7 @@ namespace Project2
             int userInput = Convert.ToInt32(Console.ReadLine())  ;
             int toStoIDvaiset = 120 - userInput; 
             Console.WriteLine(toStoIDvaiset);
-            */
+            */ 
 
             int num = Convert.ToInt32(Console.ReadLine());
             int sum;
