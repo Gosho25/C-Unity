@@ -10,7 +10,7 @@ namespace Project2
             /* 
             Console.WriteLine("Enter your age:");
             int userInput = Convert.ToInt32(Console.ReadLine()) ;
-            int toStoIDvaiset = 120 - userInput;
+            int toStoIDvaiset = 120 - userInput; 
             Console.WriteLine(toStoIDvaiset);
             */
 
