@@ -5,7 +5,7 @@ namespace PracticeWithTheBook
         static void Main(string[] args)
         {
             int toFive = int.Parse(Console.ReadLine());//random
-            switch(toFive)
+            switch(toFive)//with every type: int, float, string ...
             {
                 case 1:
                     Console.WriteLine("Your number is 1");
