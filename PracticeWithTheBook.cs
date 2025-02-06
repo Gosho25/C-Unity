@@ -27,7 +27,7 @@ namespace PracticeWithTheBook
                     break;
 
             }
-            Math.Pow(2, toFive);
+            Math.Pow(2, toFive);//To check the Math class
         }
     }
 }
