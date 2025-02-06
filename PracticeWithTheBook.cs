@@ -24,7 +24,7 @@ namespace PracticeWithTheBook
                     break;
                 default:
                     Console.WriteLine("Your number is 0 or something else");
-                    break;
+                    break;//break for end
 
             }
             Math.Pow(2, toFive);//To check the Math class
