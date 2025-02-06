@@ -4,7 +4,7 @@ namespace PracticeWithTheBook
     {
         static void Main(string[] args)
         {
-            int toFive = int.Parse(Console.ReadLine());
+            int toFive = int.Parse(Console.ReadLine());//random
             switch(toFive)
             {
                 case 1:
