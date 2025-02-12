@@ -14,6 +14,7 @@ public class FirstFile : MonoBehaviour
     [SerializeField] private float rotationSpeed = 70;//скорост на въртене
     [SerializeField] private float gravity = -26f;//сила на гравитацията(отрилцателна, за да дърпа към земята)
     [SerializeField] private float jumpSpeed = 10;//скорост на скок   
+    
     [SerializeField] private float airControlSpeed = 7f;
     [SerializeField] private float sprinting = 15f;//тичане 
 
