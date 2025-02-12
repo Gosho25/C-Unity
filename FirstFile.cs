@@ -8,6 +8,7 @@ using static UnityEngine.GraphicsBuffer;
 [RequireComponent(typeof(CharacterController))]
 public class FirstFile : MonoBehaviour
 {
+
     [SerializeField] private float speed = 8f;//скорост
     [SerializeField] private float rotationSpeed = 70;//скорост на въртене
     [SerializeField] private float gravity = -26f;//сила на гравитацията(отрилцателна, за да дърпа към земята)
