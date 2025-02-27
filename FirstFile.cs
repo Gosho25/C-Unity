@@ -5,7 +5,7 @@ using UnityEngine.InputSystem.EnhancedTouch;
 using UnityEngine.InputSystem.XR;
 using static UnityEngine.GraphicsBuffer;
 
-[RequireComponent(typeof(CharacterController))]
+[RequireComponent(typeof(CharacterController))] 
 public class FirstFile : MonoBehaviour
 {
 
