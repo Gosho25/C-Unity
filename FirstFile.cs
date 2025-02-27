@@ -7,7 +7,7 @@ using static UnityEngine.GraphicsBuffer;
 
 [RequireComponent(typeof(CharacterController))] 
 public class FirstFile : MonoBehaviour
-{
+{ 
 
 
     [SerializeField] private float speed = 8f;//скорост 
